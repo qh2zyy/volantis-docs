@@ -11,6 +11,10 @@ links:
       url: https://xaoxuu.com
       avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
       tags: [主题作者]
+    - name: 覃浩的博客
+      url: https://www.zhengyuanyuan520.com
+      avatar: https://cdn.jsdelivr.net/gh/queen999/ImageHosting/images/avatar.jpg
+      tags: [计算机网络, Java]
   - group: '版本：^2.5'
     desc: 新增 Group、References 组件
   - group: '版本：^2.4'
@@ -77,10 +81,6 @@ links:
       tags: [在原主题的基础上添加了仿github日历云和标签云以及文章分类雷达图]
   - group: '版本：^1.6'
     items:
-    - name: 覃浩的博客
-      url: https://www.zhengyuanyuan520.com
-      avatar: https://www.zhengyuanyuan520.cn/img/blog/avatar.jpg
-      tags:
     - name: Throwable
       url: http://www.throwable.club
       avatar: https://public-1256189093.cos.ap-guangzhou.myqcloud.com/static/doge_avatar.jpg
